@@ -10,6 +10,18 @@ Step 2: Create an S3 Bucket.
 
 Step 3: Run the two provided sql scripts in mysql worckbench. Run "createdb_final_V3.sql" first and then "procedures_final_V3.sql"
 
-Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical Data Final.ipynb"
+Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical Data Final.ipynb" and "Onboarding Historical Stats Final.ipynb". 
+        Important Note: That the scripts can not be run as is. You will need to make small revisions for functinality in your enviroment. The fields that need         to be changed are:
+        
+        To connect to mysql you must change the following information in both scripts. 
+        -host_name 
+        -u_name
+        -pwd
+        
+        To connect to your Jupyter Notebook to AWS you must change the following information in both scripts (where applicable). 
+        -s3pathName 
+        -FileNameFullPath
+        -filenames3
+        
 
 
