@@ -62,3 +62,6 @@ Important Note: That the scripts can not be run as is. You will need to make sma
         -FileNameFullPath
         -filenames3
         
+        
+# Visulaizing Insights With Tableu
+        
