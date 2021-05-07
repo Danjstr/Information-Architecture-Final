@@ -4,4 +4,4 @@ There are several Broad steps used in this process of Setting up this Pipeline. 
 
 IT should be noted that There is a great deal of refrene material in the provided documents. 
 
-Step 1: Set up an AWS account.
+Step 1: Set up an AWS account. Please refferene the "IA Donors DW Architecture Final.png"
