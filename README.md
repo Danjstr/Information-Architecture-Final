@@ -31,6 +31,16 @@ Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical
         -filenames3 
         -filenames3_1
         
-Hey
+The basic set up is all done. You should not run into serious issues. If you do it may be one of the following issues. 
+
+Step 5: Trouble shooting Steps
+-Please double check Step 4 to ensure that you made tha appropriate edits to the Python scripts before running them in Jupyter Notebook.
+-Please make sure that the S3 bucket you set up is Public.
+
+---
+
+Daily Updates 
+
+Updates will need to be made to the 
 
 
