@@ -8,8 +8,8 @@ Step 1: Set up an AWS account. Please refferene the "IA Donors DW Architecture F
 
 Step 2: Create an S3 Bucket. 
 
-Step 2: Connect your My sql workbench to the S3 Bucket.
-
 Step 3: Run the two provided sql scripts in mysql worckbench. Run "createdb_final_V3.sql" first and then "procedures_final_V3.sql"
+
+Step 4: Open Jupyter Notebook and run the 
 
 
