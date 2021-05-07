@@ -37,7 +37,7 @@ Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical
         
 The basic set up is all done. You should not run into serious issues. If you do it may be one of the following issues. 
 
-Step 5: Trouble shooting Steps
+Step 5: Trouble Shooting 
 -Please double check Step 4 to ensure that you made tha appropriate edits to the Python scripts before running them in Jupyter Notebook.
 -Please make sure that the S3 bucket you set up is Public.
 
@@ -48,7 +48,7 @@ Step 5: Trouble shooting Steps
 
 Updateing the S3 Bucket with new data.
 
-Run the "Daily Update Final.ipynb" python script in Jupyter Notebook.
+Step 1: Run the "Daily Update Final.ipynb" python script in Jupyter Notebook.
 Important Note: That the scripts can not be run as is. You will need to make small revisions for full functinality in your enviroment. 
         The fields that need to be changed are:
         
@@ -62,6 +62,9 @@ Important Note: That the scripts can not be run as is. You will need to make sma
         -FileNameFullPath
         -filenames3
         
-        
+
+Step 2: Trouble Shooting make sure that the path = r
+
+
 # Visulaizing Insights With Tableu
         
