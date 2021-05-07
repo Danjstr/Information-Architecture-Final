@@ -18,10 +18,17 @@ Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical
         -u_name
         -pwd
         
-        To connect to your Jupyter Notebook to AWS you must change the following information in both scripts (where applicable). 
+        To connect to your Jupyter Notebook to AWS you must change the following information in "Onboard Historical Data Final.ipynb" script. 
         -s3pathName 
         -FileNameFullPath
         -filenames3
         
+        To connect to your Jupyter Notebook to AWS you must change the following information in "Onboarding Historical Stats Final.ipynb" script. 
+        -s3pathName 
+        -s3pathName1
+        -FileNameFullPath
+        -FileNameFullPath1
+        -filenames3 
+        -filenames3_1
 
 
