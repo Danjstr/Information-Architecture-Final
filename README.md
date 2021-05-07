@@ -6,4 +6,4 @@ IT should be noted that There is a great deal of refrene material in the provide
 
 Step 1: Set up an AWS account. Please refferene the "IA Donors DW Architecture Final.png" and IA donors_dw Network Diagram V3.pdf documents provided for an overview of the AWS services that will be used. Note: This documentation assumes a certain degree of fammilarity with reading Network diagrams. We will not be detailing set up of an amazon web service enviroment here.
 
-Step 2:
+Step 2: Run the two provided sql scripts in mysql worckbench. Run "createdb_final_V3.sql" first and then 
