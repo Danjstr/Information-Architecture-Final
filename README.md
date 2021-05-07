@@ -10,6 +10,6 @@ Step 2: Create an S3 Bucket.
 
 Step 3: Run the two provided sql scripts in mysql worckbench. Run "createdb_final_V3.sql" first and then "procedures_final_V3.sql"
 
-Step 4: Open Jupyter Notebook and run the 
+Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical Data Final.ipynb"
 
 
