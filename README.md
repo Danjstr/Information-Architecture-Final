@@ -36,7 +36,9 @@ Step 4: Open Jupyter Notebook and run the two python scripts "Onboard Historical
 The basic setup is all done. You should not run into serious issues. If you do it may be one of the following issues.
 
 Step 5: Trouble Shooting 
+
 -Please double-check Step 4 to ensure that you made the appropriate edits to the Python scripts before running them in Jupyter Notebook. 
+
 -Please make sure that the S3 bucket you set up is Public.
 
 ---
@@ -60,7 +62,9 @@ Step 1: Run the "Daily Update Final.ipynb" python script in Jupyter Notebook. Im
         
 
 Step 2: Trouble Shooting 
+
 -Make sure that "path" is pointed at the right file location on your computer. For example: 'C:\Users\PC\Desktop\Donors_DW_Daily'
+
 -Make Sure your daily update data is structured the same as the data currently hosted in the S3 bucket you are loading to. For example: check the columns, headers, and make sure all data types are the same as the S3 bucket.
 
 
