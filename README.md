@@ -46,7 +46,7 @@ Step 5: Trouble Shooting
 
 # Daily Updates 
 
-Updateing the S3 Bucket with new data.
+Updateing the S3 Bucket with new donation data.
 
 Step 1: Run the "Daily Update Final.ipynb" python script in Jupyter Notebook.
 Important Note: That the scripts can not be run as is. You will need to make small revisions for full functinality in your enviroment. 
@@ -63,7 +63,9 @@ Important Note: That the scripts can not be run as is. You will need to make sma
         -filenames3
         
 
-Step 2: Trouble Shooting make sure that the path = r
+Step 2: Trouble Shooting 
+-Make sure that "path" is pointed at the right file location on your computer. For example: 'C:\\Users\\PC\\Desktop\\Donors_DW_Daily'  
+-Make Sure your daily update data is structured the same as the data currently hosted in the S3 bucket you are loading to. For example: check that columns, headers, and make sure all data types are the same as the S3 bucket.
 
 
 # Visulaizing Insights With Tableu
